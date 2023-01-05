@@ -84,7 +84,7 @@ color: #474747;
     border-radius: 30px;
 }
 /* main section */
-.about{
+.about, .whatido-container{
     
     margin: 0 197px;
     padding: 60px 70px;
@@ -125,3 +125,19 @@ color: #474747;
 .about{
     background-color: #FFF8F3;
 }
+/* what i do section */
+.whatido-title{
+
+    font-weight: 700;
+    font-size: 35px;
+}
+.whatido-para{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    margin-top: 25px;
+    color: #757575;
+    }
+
+
+
