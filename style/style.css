@@ -22,13 +22,13 @@ border-radius: 5px;
 header{
     background-image: url('../images/header_bg.png'), url('../images/developer.png') ;
     background-repeat: no-repeat;
-    background-position: bottom right, left bottom;
+    background-position: bottom right, left center;
     background-color: #FFF8F3;
     margin-top: 0;
     padding-top: 0;
     margin-left: 7px;
     margin-bottom: 60px;
-    
+    background-size: 100px 590px;
 }
 nav h2{
     font-size: 45px;
