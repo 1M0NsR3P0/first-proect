@@ -18,6 +18,10 @@ padding: 18px 35px 19px 36px;
 border: 0px;
 border-radius: 5px;
 }
+section{
+    margin-top: 100px;
+    margin-left: 190px;
+}
 /* header styles */
 header{
     background-image: url('../images/header_bg.png'), url('../images/developer.png') ;
@@ -132,12 +136,50 @@ color: #474747;
     font-size: 35px;
 }
 .whatido-para{
-    font-style: normal;
+
     font-weight: 400;
     font-size: 18px;
     margin-top: 25px;
     color: #757575;
     }
+    /* skills section */
+.skill-container{
+    display: flex;
 
-
-
+}
+.skill{
+    width: 280px;
+    height: 240px;
+    margin-right: 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding-left: 5px;
+}
+.skill h4{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    margin-top: 20px;
+}
+.skill p{
+    font-weight: 400;
+    font-size: 14px;
+    color: #757575;
+    margin-top: 20px;
+}
+.skill img{
+    align-items: left;
+}
+.skills{
+    margin: 0px 193px;
+    margin-bottom:100px;
+}
+/* summery styles */
+.main-container{
+    display: flex;
+    text-align: left;
+}
+.summery-content{
+    
+}
